@@ -1,6 +1,6 @@
 
 public class Demo2 {
-	void test2() {
+	void test1() {
 		
 	}
 }
